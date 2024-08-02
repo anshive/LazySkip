@@ -3,9 +3,9 @@ This extension auto-clicks the "Skip Ad" button on YouTube. By using it, you acc
 
 Are you tired of reaching for your mouse to click that pesky "Skip Ad" button on YouTube? Do you wish there was a way to make those ads disappear with zero effort? Well, you're in luck! Introducing **YtSkip**, the extension designed by lazy people, for lazy people.
 
-## What is YtSkip?
+## What is LazySkip?
 
-YtSkip is a browser extension that automatically clicks the "Skip Ad" button on YouTube videos, so you can enjoy your content uninterrupted. No more waiting, no more clicking, just pure, unadulterated laziness.
+LazySkip is a browser extension that automatically clicks the "Skip Ad" button on YouTube videos, so you can enjoy your content uninterrupted. No more waiting, no more clicking, just pure, unadulterated laziness.
 
 ## Installation
 
